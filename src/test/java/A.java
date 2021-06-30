@@ -3,5 +3,6 @@ public class A {
 
         System.out.println("Hello");
         System.out.println("commit1");
+        System.out.println("commit2");
     }
 }
